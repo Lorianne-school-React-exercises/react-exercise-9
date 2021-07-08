@@ -1,3 +1,17 @@
+# Filter and display filtered lists exercise
+
+### 💪 Challenge
+Create an activatable Simpsons filter
+- Fork the following sandbox filter-simpsons.
+- Review the App.js the quoteList array in the state, and how the quotes are displayed.
+- Add a "Simpsons family Only" button, which toggles a boolean value in the state (which you have to add first).
+- When you click on this button, the list of quotes should be filtered, and display only the Simpsons family quotations.
+- Take a look at the previous examples. To write the function that determines whether a quote should be displayed, you will need includes.
+
+
+
+
+# Data included in the exercise readme file:
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
